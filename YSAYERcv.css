@@ -1,0 +1,139 @@
+body {     
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+    box-shadow: 30px 0px 40px rgb(107, 106, 106), -30px 0px 40px rgb(196, 196, 196);
+    margin: auto;
+    max-width: 1000px;
+}
+
+.srkl {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    width: 100%;
+}
+header {
+    height: 200px;
+    padding-top: 10px;
+    color: rgb(243, 243, 240);
+    background-color: rgba(37, 9, 94, 0.938);
+}
+
+.photo {
+    margin-left: 7%;
+    border-radius: 100%;
+    width: 130px;
+    height: 130px;
+    overflow: hidden;
+}
+.des{
+    margin-left: 25%;
+    margin-top: -10%;
+}   
+.fons{
+    background-color: #dff7f4;
+    
+}   
+h4{
+    margin-left: 10%;
+    color: #490dee;
+    letter-spacing: .1rem;
+    font-size: 18px;
+}
+h3{
+    color: #f6f5fadc;
+    font-weight: bold;
+    letter-spacing: .1rem;
+    font-size: 20px;
+}
+.post{
+    color: orange;
+    font-weight: bold;
+    letter-spacing: .1rem;
+}
+.right{
+    padding: 0;
+    margin: 5px;
+    margin-top: -10%;
+}
+.right p{
+   margin-left: 600px;
+   letter-spacing: .1rem;    
+}
+.info{
+    width: 20px;
+    height: 20px;
+}
+.section-left{
+    background-color: white;
+    float: left;
+    width: 400px;
+}
+.section-right{
+    background-color: white;
+    float: right;
+    width: 400px;
+}
+ 
+hr.light{
+ border-top: 2px solid #5c0feb;
+ width: 90%;
+ margin-top: .8rem;
+ margin-bottom: 1rem;
+}
+    
+.bre{ 
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-right: 10%;
+}
+.div{
+    text-align: justify;
+    margin-left: 10%; 
+    margin-right: 10%;
+    
+}
+.att p{
+    text-align: justify;
+    margin-left: 10%; 
+    margin-right: 10%; 
+}
+.sta p{
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.skls {
+    padding: 0px;
+    width: 40%;
+    margin-left: 10%
+}
+.cool {
+    background-color: #fff;
+    border: 2px solid #ccc;
+    width: 300px;
+    height: 7px;
+}
+
+.po {
+    margin-top: 20px;
+}
+strong{
+    color: #780af5;
+    text-decoration: none; 
+}
+.inner {
+    height: 100%;
+    background-color:  rgb(86, 16, 250);
+}
+.interet{
+    margin-left: 10%
+}
+.reseaux{
+    margin-left: 10%;
+}
+span{
+    margin-left: 10px;
+} 
