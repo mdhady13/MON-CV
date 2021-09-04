@@ -5,7 +5,8 @@ body {
 main {
     box-shadow: 30px 0px 40px rgb(107, 106, 106), -30px 0px 40px rgb(196, 196, 196);
     margin: auto;
-    max-width: 1000px;
+    max-width: 1000px; 
+    background-color: rgb(244, 249, 250);
 }
 
 .srkl {
@@ -17,8 +18,9 @@ main {
 header {
     height: 200px;
     padding-top: 10px;
-    color: rgb(243, 243, 240);
-    background-color: rgba(37, 9, 94, 0.938);
+    color: rgb(133, 158, 206);
+    background-color: rgb(37, 9, 94, 0.938);
+    background-image: linear-gradient( to left, white, rgb(107, 22, 243));
 }
 
 .photo {
