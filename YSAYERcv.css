@@ -32,6 +32,7 @@ header {
 }
 .des{
     margin-left: 25%;
+    color: #f7f6fc;
     margin-top: -10%;
 }   
 .fons{
@@ -56,9 +57,10 @@ h3{
     letter-spacing: .1rem;
 }
 .right{
-    padding: 0;
-    margin: 5px;
-    margin-top: -10%;
+    padding: 5px;
+    margin: 10px;
+    margin-top: -8%;
+    color: #490dee;
 }
 .right p{
    margin-left: 600px;
@@ -136,6 +138,3 @@ strong{
 .reseaux{
     margin-left: 10%;
 }
-span{
-    margin-left: 10px;
-} 
