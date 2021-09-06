@@ -23,7 +23,8 @@ header {
     background-image: linear-gradient( to left, white, rgb(107, 22, 243));
 }
 
-.photo {
+.photo { 
+    margin-top: 20px;
     margin-left: 7%;
     border-radius: 100%;
     width: 130px;
@@ -51,15 +52,11 @@ h3{
     letter-spacing: .1rem;
     font-size: 20px;
 }
-.post{
-    color: orange;
-    font-weight: bold;
-    letter-spacing: .1rem;
-}
+
 .right{
     padding: 5px;
     margin: 10px;
-    margin-top: -8%;
+    margin-top: -11%;
     color: #490dee;
 }
 .right p{
