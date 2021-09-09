@@ -34,8 +34,14 @@ header {
 .des{
     margin-left: 25%;
     color: #f7f6fc;
-    margin-top: -10%;
-}   
+    margin-top: -10%; 
+}    
+
+.des p {
+     font-weight: bold;
+     color: #f6f5fadc;
+}
+
 .fons{
     background-color: #dff7f4;
     
